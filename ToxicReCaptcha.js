@@ -103,5 +103,5 @@ Client.on('message', async message => {
     }}
 )
 
-Client.login('Njg1NjYwODY4ODg0OTU1MTM3.XmN18g.Mix9TYuROYQp1DV_p3kc3i9qxf4');
+Client.login('TOKEN_HERE');
 
