@@ -1,0 +1,53 @@
+{
+  "name": "toxic-server-captcha",
+  "version": "v0.0.1",
+  "description": "Basic Server Re-Captcha Bot",
+  "main": "srever.js",
+  
+  "scripts": {
+    "test": "LOL WHO EVEN KNOWS!!!!",
+    "start": "node ToxicReCaptcha.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "timers": "^0.1.1",
+    "fetch": "^1.1.0",
+    "integer": "^3.0.1",
+    "google": "^2.1.0",
+    "jimp": "^0.9.4",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.0",
+    "node-superfetch": "^0.1.10",
+    "fs": "^0.0.2"
+  },
+
+  "devDependencies": {
+    "os-utils": "0.0.14",
+    "parse-time": "^0.1.4",
+    "random-puppy": "^1.1.0",
+    "regex": "^0.1.1",
+    "superagent": "^5.2.2",
+    "urban": "^0.3.2",
+    "snekfetch": "^4.0.4",
+    "ms": "^2.1.2",
+    "nexe": "^3.3.2"
+  },
+
+  "keywords": [
+    "Re-Captcha",
+    "Verification"
+  ],
+
+  "author": "☣ Tσxιƈ Dҽʋ ☣#7308",
+  "license": "YOU WISH, ALL RIGHTS GO TO ME"
+}
